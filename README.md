@@ -1,15 +1,20 @@
+<br>
+
+<div width="100%" display="flex" align="center">
+  <a href="#" style="cursor:default"><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="50%" /></a>
+</div>
 
 <br>
 
 <div align="center">
-  <a href="https://github.com/ivansegoviasn"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there+%F0%9F%91%8B+,+I'm+Ivan+Segovia.;Web+and+android+analyst+developer;I'm+a+cross-    platform+developer;I'm+a+fullstack+developer" alt="Typing SVG" /></a>  
+  <a href="#" style="cursor:default"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there+%F0%9F%91%8B,+Welcome+to+my+Github" alt="Typing SVG" /></a>  
 </div>
 
 <br>
 
 ###
 
-<h2 align="center">Tech Stack</h2>
+<h2 align="center">Tech stack</h2>
 <div width="100%" display="flex" align="center">
   <code><a href="#" style="cursor:default"><img src="https://img.icons8.com/?size=48&id=Pd2x9GWu9ovX&format=png"></a></code>
   <code><a href="#" style="cursor:default"><img src="https://img.icons8.com/color/48/spring-logo.png"></a></code>
@@ -22,7 +27,7 @@
 
 <br>
 
-<h2 align="center">More about me</h3>
+<h2 align="center">Other languages</h3>
 
 <div width="100%" display="flex" align="center">
 
@@ -38,7 +43,7 @@
 
 <br>
 
-<h3 align="center">Mostly Used Frameworks, Platforms and Libraries</h3>
+<h3 align="center">Mostly used frameworks, platforms and libraries</h3>
 
 <div width="100%" display="flex" align="center">
   <code><a href="#" style="cursor:default"><img src="https://img.icons8.com/color/48/angularjs.png"></a></code>
@@ -52,7 +57,7 @@
 
 <br>
 
-<h3 align="center">Databases I Frequently Used</h3>
+<h3 align="center">Databases i frequently used</h3>
 
 <div width="100%" display="flex" align="center">
 <code><a href="#" style="cursor:default"><img src="https://img.icons8.com/?size=48&id=39913&format=png"></a></code>
@@ -70,13 +75,22 @@
 <h2 align="center">Get in touch</h3>
 
 <div width="100%" display="flex" align="center">
-<a href="mailto:contacto@ivansegovia.es">
-<img src="https://img.icons8.com/color/48/gmail-new.png"/>
-</a>
-  <a href=" https://linkedin.com/in/ivansegovia">
-<img src="https://img.icons8.com/fluency/48/linkedin.png"/>
-</a>
+  <a href="https://www.ivansegovia.es">
+    <img src="https://img.icons8.com/?size=48&id=42909&format=png"/>
+  </a>
+  <a href="mailto:contacto@ivansegovia.es">
+    <img src="https://img.icons8.com/color/48/gmail-new.png"/>
+  </a>
+  <a href="https://linkedin.com/in/ivansegovia">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png"/>
+  </a>
   <a href="https://twitter.com/ivansegoviasn">
-<img src="https://img.icons8.com/color/48/twitterx--v1.png"/>
-</a>
+    <img src="https://img.icons8.com/color/48/twitterx--v1.png"/>
+  </a>
+</div>
+
+<br>
+
+<div width="100%" display="flex" align="center">
+  <a href="#" style="cursor:default"><img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="20%" /></a>
 </div>
