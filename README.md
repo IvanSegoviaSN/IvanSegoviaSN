@@ -26,7 +26,6 @@
 
 <div width="100%" display="flex" align="center">
 
-<code><a href="#" style="cursor:default"><img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png"/></a></code>
 <code><a href="#" style="cursor:default"><img src="https://img.icons8.com/color/48/javascript--v1.png"/></a></code>
 <code><a href="#" style="cursor:default"><img src="https://img.icons8.com/fluency/48/typescript--v2.png"/></a></code>
 <code><a href="#" style="cursor:default"><img src="https://img.icons8.com/?size=48&id=BUnExfsRs3CW&format=png"/></a></code>
