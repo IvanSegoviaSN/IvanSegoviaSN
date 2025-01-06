@@ -1,6 +1,3 @@
-<div align="center">
-  <code><img src="https://avatars.githubusercontent.com/u/71752649?v=4"></code>
-</div>
 
 <br>
 
