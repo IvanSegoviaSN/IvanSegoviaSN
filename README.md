@@ -1,3 +1,9 @@
+<!--
+    SOURCES: 
+    - https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub
+    - 
+--!>
+
 <br>
 
 <div width="100%" display="flex" align="center">
@@ -11,8 +17,6 @@
 </div>
 
 <br>
-
-###
 
 <h2 align="center">Tech stack</h2>
 <div width="100%" display="flex" align="center">
