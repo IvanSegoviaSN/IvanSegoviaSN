@@ -22,18 +22,6 @@
 
 <br>
 
-###
-
-<h2 align="center">Activity on Github</h2>
-
-<p align="center">
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=IvanSegoviaSN&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=IvanSegoviaSN&date_format=M%20j%5B%2C%20Y%5D" />
-  <img alt="streak" src="streak.svg" />
-  </picture>
-</p>
-
 <h2 align="center">More about me</h3>
 
 <div width="100%" display="flex" align="center">
